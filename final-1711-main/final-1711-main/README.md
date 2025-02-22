@@ -1,7 +1,7 @@
-# LAN LORDS - Automated Complaint Processing System
+# RAIL MADAD CMS - Automated Complaint Processing System
 
 ## Overview
-The **LAN LORDS** project is a customer complaint processing system designed to automate the classification and resolution of customer complaints using advanced AI/ML models and a robust backend infrastructure. The system handles various forms of input (image, audio, video) and processes them to extract relevant information, which is then used for automated complaint classification and resolution. The project includes features like real-time complaint tracking, predictive analysis, and multilingual chatbot support.
+The **Rail Madad CMS** project is a customer complaint processing system designed to automate the classification and resolution of customer complaints using advanced AI/ML models and a robust backend infrastructure. The system handles various forms of input (image, audio, video) and processes them to extract relevant information, which is then used for automated complaint classification and resolution. The project includes features like real-time complaint tracking, predictive analysis, and multilingual chatbot support.
 
 ## Key Features
 
